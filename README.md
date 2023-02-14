@@ -1,7 +1,7 @@
 # Machine-Learning
 
 ## Kaggle Competition: Smith's Parasite
-https://pages.github.com/](https://www.kaggle.com/competitions/the-smith-parasite/overview
+https://www.kaggle.com/competitions/the-smith-parasite/overview
 
 Prediction Score: 1.00/1.00
 
