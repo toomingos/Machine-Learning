@@ -1,6 +1,11 @@
 # Machine-Learning
 
 ## Kaggle Competition: Smith's Parasite
+[link](https://pages.github.com/](https://www.kaggle.com/competitions/the-smith-parasite/overview)
+
+Prediction Score: 1.00/1.00
+
+<img width="756" alt="Screenshot 2023-02-14 at 15 19 13" src="https://user-images.githubusercontent.com/86632157/218780211-0e21664a-ae5c-41cc-8632-5853dc4693a5.png">
 
 ### Introduction
 This report concerns a new disease transmitted by a virus that has been discovered in England by Dr. Smith and has already affected over 5000 people. Some of the people contracting the disease are asymptomatic, but the most common symptoms include fever and tiredness. The virus has also been associated with post-disease conditions such as loss of speech, confusion, chest pain and shortness of breath. The circumstances regarding the transmission of the disease are unknown and although there is no apparent connection between the infected people, some groups seem more prone to be infected than others.
